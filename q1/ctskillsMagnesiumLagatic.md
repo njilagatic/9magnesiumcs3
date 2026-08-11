@@ -42,6 +42,7 @@ Automatic Point of Sale and Payment Calculation (Sub-Problem 2)
 
 ### Pseudocode
 START
+    
     SET OrderTotal = 0
     
     WHILE CustomerIsOrdering IS TRUE DO
@@ -83,5 +84,6 @@ START
         END IF
     END IF
     
-    PRINT "Order complete. Printing receipt."
+    PRINT "Order complete. Printing receipt."  
+    
 END
