@@ -42,7 +42,7 @@ Automatic Point of Sale and Payment Calculation (Sub-Problem 2)
 
 ### Pseudocode
 START
-    SET orderTotal = 0
+    SET OrderTotal = 0
     
     WHILE CustomerIsOrdering IS TRUE DO
         DISPLAY MenuItemList
