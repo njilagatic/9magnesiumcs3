@@ -10,6 +10,6 @@ Me, Myself, and I
 
 ## Activities
 ### Computational Thinking Skills
-[View my Computational Thinking Exercise](q1/ctskillsMagnesiumLagatic.md)
-[VIew my Chinese Zodiac Program Source Code](q1/zodiacMagnesiumLagatic.py)
-[VIew my Chinese Zodiac Exercise Documentation](q1/zodiacMagnesiumLagatic.md)
+* [View my Computational Thinking Exercise](q1/ctskillsMagnesiumLagatic.md)
+* [VIew my Chinese Zodiac Program Source Code](q1/zodiacMagnesiumLagatic.py)
+* [VIew my Chinese Zodiac Exercise Documentation](q1/zodiacMagnesiumLagatic.md)
