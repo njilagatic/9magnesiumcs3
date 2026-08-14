@@ -38,6 +38,7 @@ else:
 
 ---
 
-## Screenshot
+## Screenshots
 
-![Zodiac Program Output](<Screenshot 2026-08-13 231507.png>)
+![Zodiac Program Output_1](<Screenshot 2026-08-13 231119.png>)
+![Zodiac Program Output_2](<Screenshot 2026-08-13 230949.png>)
