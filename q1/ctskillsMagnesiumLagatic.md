@@ -1,9 +1,10 @@
 # Computational Thinking Exercise
+
 ## Smart School Canteen Queue
 
-**Name:** Niane Jair I. Lagatic
-**Section:** Magnesium
-**Last Name:** Lagatic
+**Name:** Niane Jair I. Lagatic<br>
+**Section:** Magnesium<br>
+**Last Name:** Lagatic<br>
 **Date:** August 11, 2026
 
 ---
