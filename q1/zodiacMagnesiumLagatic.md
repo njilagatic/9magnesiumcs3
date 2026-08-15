@@ -11,6 +11,7 @@ e. CONSIDER only the year of birth.
 
 ## Python Source Code ('zodiacMagnesiumLagatic.py')
 
+'''python
 zodiac_signs = [
     "Rat (鼠 / Shǔ)",
     "Ox (牛 / Niú)",
@@ -35,10 +36,10 @@ if birth_year < base:
 else:
     c = (birth_year - base) % 12
     print(f"Your Chinese Zodiac Sign is: {zodiac_signs[c]}")
+'''
 
 ---
 
 ## Screenshots
 
-![ZOdiac Program Output_1](<Screenshot 2026-08-13 231119.png>)
-![Zodiac Program Output_2](<Screenshot 2026-08-14 120840.png>)
+![Zodiac Program Output](<Screenshot 2026-08-14 212249.png>)
