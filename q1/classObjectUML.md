@@ -10,13 +10,13 @@
 | Completed | boolean | Indicate whether workout session was completed |
 ## Methods
 | Method | Description |
-|---|---|| | |
+|---|---|
+| startSession() | Starts timer tracking and active workout status |
+| logCalories(burned: double) | Updates total energy expenditure during workout |
+| completeSession() | Sets workout to completed true and finalizes session stats |
 
-| start_session() | Starts timer tracking and active workout status |
-| log_calories() | Updates total energy expenditure during workout |
-| complete session() | Sets workout to completed to true and finalizes session stats |
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram](classDiagram.png)
 ## Design Explanation
 ### Why did you choose this class?
 I selected because personal fitness tracking software relies heavily on modular data structures to capture individual activities. Designing an exercise session provides a clear mapping between daily physical activity and software objects.
