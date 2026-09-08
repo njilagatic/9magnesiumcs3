@@ -15,4 +15,5 @@ Me, Myself, and I
 * [View my Chinese Zodiac Program Source Code](q1/zodiacMagnesiumLagatic.py)
 * [View my Chinese Zodiac Exercise Documentation](q1/zodiacMagnesiumLagatic.md)
 * [View my ILA 3-1: Applying the Four Pillars of OOP](q1/ila_oop.md)
-* [View my classObjectUML](q1/classObjectUML.md)
+* [View my OOPact](q1/classObjectUML.md)
+* [View my OOPact II](q1/classAttributesMethods.md)
