@@ -4,19 +4,19 @@
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 
 ## Existing Class
-Class: WorkoutSession
+Class: WorkoutSession<br>
 Description: This class represents a single fitness activity logged within a personal health application.
 
 ## New Related Class
-Class: MealLog
+Class: MealLog<br>
 Description: This class is built to observe food consumption and daily intake to maintain a personalized and healthy diet.
 
 ## Association
-Relationship: WorkoutSession includes MealLog
+Relationship: WorkoutSession includes MealLog<br>
 Explanation: A WorkoutSession records all entry logs to track nutritional intake relevant to a specific training session.
 
 ## Multiplicity
-Multiplicity: 1 to 0..*
+Multiplicity: 1 to 0..*<br>
 Explanation: Directly one WorkoutSession can be affiliated with zero or more MealLog objects. It can start without any logs and accumulate pre-workout, intra-workout, or post-workout meals as user logs nutrition.
 
 ## UML Class Relationship Diagram
