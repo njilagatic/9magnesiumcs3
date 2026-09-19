@@ -25,6 +25,5 @@ Me, Myself, and I
 |---|---|
 | **AI Tool Used** | Gemini |
 | **Purpose & Scope** | Assisting with Python code structure, formatting Markdown tables, and organizing UML diagram templates. |
-| **Prompt Examples** | "Can you help me with the structuring and organization of my UML Diagram"
-"Check my Markdown table syntax please" |
+| **Prompt Examples** | "Can you help me with the structuring and organization of my UML Diagram?"<br> "Check my Markdown table syntax please." |
 | **Student Ownership** | All generated code was executed and verified locally. All written responses were modified to accurately reflect my own understanding. |
