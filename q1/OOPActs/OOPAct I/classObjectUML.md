@@ -22,7 +22,7 @@ This class represents a single fitness activity logged within a personal health 
 | `completeSession()` | Sets workout status to completed and finalizes session stats |
 
 ## Class Diagram
-![Class Diagram](Screenshots/classDiagram.png)
+![Class Diagram](../Images/classDiagram.png)
 
 ## Design Explanation
 

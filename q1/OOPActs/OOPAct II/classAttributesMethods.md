@@ -17,16 +17,16 @@ Updated attribute visibilities by making `caloriesBurned` and `isCompleted` priv
 | `isCompleted` | `boolean` | Private | Critical operational state that should only toggle when session completion steps are executed. |
 
 ## Updated UML Class Diagram
-![Class Diagram](Screenshots/classDiagramSG5.png)
+![Class Diagram](../Images/classDiagramSG5.png)
 
 ## Python Implementation
 [View Python Source](classImplementation.py)
 
 ## Test Run
-![Test Run](Screenshots/classTestRun.png)
+![Test Run](../Images/classTestRun.png)
 
 ## Object Diagram
-![Object Diagram](Screenshots/objectDiagram.png)
+![Object Diagram](../Images/objectDiagram.png)
 
 ## Analysis
 
