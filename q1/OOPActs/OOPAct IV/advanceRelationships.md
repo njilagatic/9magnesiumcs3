@@ -2,8 +2,8 @@
 
 ## Previous Activities
 
-[classAttrib](<../OOPAct II/classAttributesMethods.md>)
-[classRel](<../OOPAct III/classRelationships.md>)
+[classAttrib](<../OOPAct II/classAttributesMethods.md>)<br>
+[classRel](<../OOPAct III/classRelationships.md>)<br>
 
 ## Existing System Description:
 The existing system tracks your fitness activities and nutrient intake by entries or logs. However, it couldn't handle very specialized exercises without making mistakes.
