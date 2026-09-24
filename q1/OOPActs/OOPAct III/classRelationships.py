@@ -36,7 +36,7 @@ class WorkoutSession:
         else:
             for meal in self.meals:
                 meal.display_meal()
-
+                
 
 if __name__ == "__main__":
     print("=== PHASE A: BEFORE RELATIONSHIP ===")
