@@ -10,7 +10,6 @@ Me, Myself, and I
 
 ## Activities
 
-### Computational Thinking Skills
 * [Computational Thinking Exercise](q1/CT%20Skills/ctskillsMagnesiumLagatic.md)
 * [Chinese Zodiac Program Source Code](q1/Zodiac/zodiacMagnesiumLagatic.py)
 * [Chinese Zodiac Exercise Documentation](q1/Zodiac/zodiacMagnesiumLagatic.md)
@@ -28,3 +27,10 @@ Me, Myself, and I
 | **Purpose & Scope** | Assisting with Python code structure, formatting Markdown tables, and organizing UML diagram templates. |
 | **Prompt Examples** | "Can you help me with the structuring and organization of my UML Diagram?"<br> "Check my Markdown table syntax please."<br> Can you help me about the relationships of these two Classes?"<br> "In my code, what are the common attributes?"|
 | **Student Ownership** | All generated code was executed and verified locally. All written responses were modified to accurately reflect my own understanding. |
+
+# Quarter 2
+
+## Activities
+
+* [Study Guide 8 – Encapsulation](q2/sg8_encapsulation.py)
+
