@@ -32,5 +32,5 @@ Me, Myself, and I
 
 ## Activities
 
-* [Study Guide 8 – Encapsulation](q2/sg8_encapsulation.py)
+* [Study Guide 8 – Encapsulation](q2/Encapsulation/sg8_encapsulation.py)
 
