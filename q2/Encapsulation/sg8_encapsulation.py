@@ -1,9 +1,9 @@
 class BankAccount:
-    def __init__(self, account_number: str, initial_balance: float = 0.0):
+    def __init__(self, account_number: int, initial_balance: float = 0.0):
         self.__account_number = account_number
         self.__balance = initial_balance
 
-    def set_account_number(self, account_number: str):
+    def set_account_number(self, account_number: int):
         self.__account_number = account_number
 
     def set_balance(self, balance: float):
