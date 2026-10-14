@@ -30,7 +30,7 @@ class BankAccount:
         print(f"Balance: {self.__balance:.2f}")
 
     def account_count(self):
-        return 1  # Each instance represents one account
+        return 1  
 
 
 if __name__ == "__main__":
