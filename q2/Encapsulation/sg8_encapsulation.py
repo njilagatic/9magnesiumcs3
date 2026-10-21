@@ -1,5 +1,5 @@
 class BankAccount:
-    def __init__(self, account_number: int, initial_balance: float = 0.0):
+    def __init__(self, account_number: int, initial_balance: float = 0.0): 
         self.__account_number = account_number
         self.__balance = initial_balance
 
@@ -33,7 +33,7 @@ class BankAccount:
         return 1  
 
 
-if __name__ == "__main__":
+if __name__ == "__main__": 
     a1 = BankAccount("12345", 1000.0)
 
     print("\nOutput:")
@@ -43,4 +43,4 @@ if __name__ == "__main__":
 
     print("\nUpdate Balance to -100")
     a1.set_balance(-100)
-    a1.display_info()
+    a1.display_info() 
