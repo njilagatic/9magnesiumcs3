@@ -36,4 +36,4 @@ Me, Myself, and I
 * [Study Guide 9 – Inheritance](q2/Inheritance/sg9_inheritance.py)
 * [Study Guide 10 – Method Overriding](<q2/Method Overriding/sg10_methodoverriding.py>)
 * [Study Guide 11 – Polymorphism: Activity 1](q2/Polymorphism/sg11_polymorphism_a1.py)
-* [Study Guide 11 – Polymorphism: Activity 2](q2/Polymorphism/sg11_polymorphism_a2.md)
+* [Study Guide 11 – Polymorphism: Activity 2](<q2/Polymorphism/Activity 2/sg11_polymorphism_a2.md>)
